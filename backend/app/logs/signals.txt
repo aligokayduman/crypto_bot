@@ -1,0 +1,87 @@
+23.4.2021 0:19:45   - TypeError: Cannot read property 'iscronrunning' of null
+23.4.2021 0:19:50   - TypeError: Cannot read property 'iscronrunning' of null
+23.4.2021 0:19:55   - TypeError: Cannot read property 'iscronrunning' of null
+23.4.2021 0:20:0    - TypeError: Cannot read property 'iscronrunning' of null
+23.4.2021 0:20:5    - TypeError: Cannot read property 'iscronrunning' of null
+23.4.2021 0:20:10   - TypeError: Cannot read property 'iscronrunning' of null
+23.4.2021 0:20:20   - TypeError: Cannot read property 'iscronrunning' of null
+23.4.2021 0:20:25   - TypeError: Cannot read property 'iscronrunning' of null
+23.4.2021 0:20:30   - TypeError: Cannot read property 'iscronrunning' of null
+23.4.2021 0:20:35   - TypeError: Cannot read property 'iscronrunning' of null
+23.4.2021 1:35:20   - TypeError: Cannot read property 'iscronrunning' of null
+23.4.2021 1:35:25   - TypeError: Cannot read property 'iscronrunning' of null
+23.4.2021 1:36:15   - Job started
+23.4.2021 1:36:15   - Start Trailing Process
+23.4.2021 1:36:18   - 1) WIN/USDT
+23.4.2021 1:36:20   - 2) BTT/USDT
+23.4.2021 1:36:21   - Start Order Process
+23.4.2021 1:36:21   - 1) WIN/USDT
+23.4.2021 1:36:23   - Buy Signal: false
+23.4.2021 1:36:23   - 2) BTT/USDT
+23.4.2021 1:36:24   - Buy Signal: false
+23.4.2021 1:36:24   - Job finished
+23.4.2021 1:36:25   - Job started
+23.4.2021 1:36:25   - Start Trailing Process
+23.4.2021 1:37:30   - Job started
+23.4.2021 1:37:30   - Start Trailing Process
+23.4.2021 1:37:31   - 1) WIN/USDT
+23.4.2021 1:37:32   - 2) BTT/USDT
+23.4.2021 1:37:34   - Start Order Process
+23.4.2021 1:37:34   - 1) WIN/USDT
+23.4.2021 1:37:35   - Buy Signal: false
+23.4.2021 1:37:35   - 2) BTT/USDT
+23.4.2021 1:37:37   - Buy Signal: false
+23.4.2021 1:37:37   - Job finished
+23.4.2021 12:30:55  - Job started
+23.4.2021 12:30:55  - Start Trailing Process
+23.4.2021 12:30:55  - 1) WIN/USDT
+23.4.2021 12:30:57  - 2) BTT/USDT
+23.4.2021 12:30:58  - Start Order Process
+23.4.2021 12:30:58  - 1) WIN/USDT
+23.4.2021 12:31:0   - Buy Signal: false
+23.4.2021 12:31:0   - 2) BTT/USDT
+23.4.2021 12:31:1   - Buy Signal: false
+23.4.2021 12:31:1   - Job finished
+23.4.2021 12:31:5   - Job started
+23.4.2021 12:31:5   - Start Trailing Process
+23.4.2021 12:31:5   - 1) WIN/USDT
+23.4.2021 12:31:7   - 2) BTT/USDT
+23.4.2021 12:31:8   - Start Order Process
+23.4.2021 12:31:8   - 1) WIN/USDT
+23.4.2021 12:31:10  - Buy Signal: false
+23.4.2021 12:31:10  - 2) BTT/USDT
+23.4.2021 12:31:11  - Buy Signal: false
+23.4.2021 12:31:11  - Job finished
+23.4.2021 12:31:15  - Job started
+23.4.2021 12:31:15  - Start Trailing Process
+23.4.2021 12:31:15  - 1) WIN/USDT
+23.4.2021 12:31:17  - 2) BTT/USDT
+23.4.2021 12:31:18  - Start Order Process
+23.4.2021 12:31:18  - 1) WIN/USDT
+23.4.2021 12:31:20  - Buy Signal: false
+23.4.2021 12:31:20  - 2) BTT/USDT
+23.4.2021 12:31:21  - Buy Signal: false
+23.4.2021 12:31:21  - Job finished
+29.4.2021 11:43:5   - Job started
+29.4.2021 11:43:5   - Start Trailing Process
+29.4.2021 11:43:6   - 1) WIN/USDT
+29.4.2021 11:43:8   - 2) BTT/USDT
+29.4.2021 11:43:9   - 1) WIN/USDT
+29.4.2021 11:43:9   - Start Order Process
+29.4.2021 11:43:11  - Buy Signal: false
+29.4.2021 11:43:11  - 2) BTT/USDT
+29.4.2021 11:43:12  - Buy Signal: false
+29.4.2021 11:43:12  - Job finished
+29.4.2021 11:43:15  - Job started
+29.4.2021 11:43:15  - Start Trailing Process
+29.4.2021 11:43:15  - 1) WIN/USDT
+29.4.2021 11:46:15  - Job started
+29.4.2021 11:46:15  - Start Trailing Process
+29.4.2021 11:46:16  - 1) WIN/USDT
+29.4.2021 11:46:17  - 2) BTT/USDT
+29.4.2021 11:46:19  - Start Order Process
+29.4.2021 11:46:19  - 1) WIN/USDT
+29.4.2021 11:46:20  - Buy Signal: false
+29.4.2021 11:46:20  - 2) BTT/USDT
+29.4.2021 11:46:21  - Buy Signal: false
+29.4.2021 11:46:21  - Job finished

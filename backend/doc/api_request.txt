@@ -1,0 +1,2 @@
+await client.getIndicator("ema", "binance", pairs[i].name, "4h",{optInTimePeriod:100},0,1000); 
+await client.getIndicator("stochrsi", "binance", pairs[i].name, "4h",{stochasticPeriod:14,rsiPeriod:14,dPeriod:3,kPeriod:3},0,1000);
