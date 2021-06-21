@@ -9,12 +9,19 @@ import routes from './routes/index.js';
 import demo from './helper/demo.js';
 import session from 'express-session';
 import passport from 'passport';
+import cors from 'cors';
 
 const app = express();
 const __dirname = path.resolve(path.dirname(''));
 
 //Sync DB and import demo rows
 await demo();
+
+//cors controller
+const corsOptions = {
+  origin: 'http://localhost:3000' 
+}
+app.use(cors(corsOptions));
 
 // view engine setup
 app.use( ejsLayouts );

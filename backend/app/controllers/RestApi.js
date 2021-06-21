@@ -29,8 +29,7 @@ const create = (req, res) => {
 
 }
 
-const findAll = (req, res) => {
-
+const findAll = (req, res) => {  
     Pair.findAll().then(pairs => {
         res.send(pairs);
     }).catch(err => {
